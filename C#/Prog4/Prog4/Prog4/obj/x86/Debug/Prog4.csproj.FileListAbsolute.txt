@@ -1,0 +1,7 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog4\Prog4\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog4\Prog4\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog4\Prog4\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog4\Prog4\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog4\Prog4\obj\x86\Debug\Prog4.csprojResolveAssemblyReference.cache
+H:\Documents\Prog4\Prog4\Prog4\obj\x86\Debug\Prog1.exe
+H:\Documents\Prog4\Prog4\Prog4\obj\x86\Debug\Prog1.pdb
