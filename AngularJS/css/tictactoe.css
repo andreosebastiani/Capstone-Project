@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#tic_tac_toe{
+  font-family: 'Permanent Marker', cursive; font-size: 48px;
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  border-collapse: collapse;
+}
+#tic_tac_toe td{
+  width: 90px;
+  height: 90px;
+  border: 1px solid #aaaaaa;
+  border-collapse: collapse;
+}
+
+#results { font-family: "Helvetica", sans-serif; font-size: 38px;
+  margin-top: 20px; }
+
+.controls { margin-top: 50px;
+  width: 260px; padding-left: 75px;
+  font-family: "helvetica", sans-serif; }
+.controls p { margin: 0; }

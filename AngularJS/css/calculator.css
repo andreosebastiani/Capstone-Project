@@ -1,0 +1,59 @@
+            input[type="button"]{
+                filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#606060', endColorstr='#606060');
+                border:1px solid #606060;
+                display:inline-block;
+                color:#fff;
+                font-family:Arial;
+                font-size:50px;
+                line-height:28px;
+                text-decoration:none;
+                text-align:center;
+                margin-bottom:1.5px;
+                margin-left: 1.5px;
+                margin-right:1.5px ;
+                margin-top:1.5px ;
+                height: 75px; 
+            }
+            input[type="button"]{
+            width: 184px;
+            }
+            #btnC{
+                    width:372.7px;
+            }
+            #btn0{
+                    width:374.7px;
+            }
+            #btn0,#btndecimal,#btndivide {
+                margin-right: 0.1px;
+            }
+            #btn7,#btn4,#btn1,#btn0,#btnequals {
+                margin-left: 0.01px;
+            }        
+            #btnequals {
+                height: 61px;
+                width: 944px;
+                margin-top: 3px;
+            }
+            input[type="button"]:active {
+                position:relative;
+                background:#989898;
+            } 
+            input:focus {
+                outline:0;
+            }
+            input[type="Text"] {
+                padding-left: 10px;
+                margin-bottom: 1.5px;
+                font-size: 100px;
+                background-color: #202020 ;n
+                height:195px;
+                width: 935px;
+                border:none;
+                color:white;
+            }
+            body {
+                overflow: hidden;
+            }
+            #about {
+                font-size: 45px;
+            }
