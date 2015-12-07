@@ -3,7 +3,7 @@ Andreo Sebastiani
 
 - [GitHub][]
 - [Website][homepage]
-  -[Resume](http://www.andreosebastiani.com/Resume)   
+    - [Resume](http://www.andreosebastiani.com/Resume)
 - [LinkedIn][linkedin]
 
 Table of contents
