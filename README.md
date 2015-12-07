@@ -3,11 +3,17 @@ Andreo Sebastiani
 
 - [GitHub][]
 - [Website][homepage]
+    -[Resume](http://www.andreosebastiani.com/Resume)   
 - [LinkedIn][linkedin]
 
 Table of contents
 =======
 
+- [Business and Systems Analysis](https://github.com/andreosebastiani/Portfolio/tree/master/Business)
+    - [Domain Model Diagram](https://github.com/andreosebastiani/Portfolio/blob/master/Business/UML%20Diagram.PNG)
+    - [Database Diagram](https://github.com/andreosebastiani/Portfolio/blob/master/Business/db%20diagram.pdf)
+    - [Use Case Diagrams](https://github.com/andreosebastiani/Portfolio/tree/master/Business/Use%20Case%20Diagrams)
+    - [Sequence Diagrams](https://github.com/andreosebastiani/Portfolio/tree/master/Business/Sequence%20Diagrams)
 - [.NET Project](https://github.com/andreosebastiani/collegeplaylist)
 - [C# Programs](https://github.com/andreosebastiani/Portfolio/tree/master/C%23)
 - [SQL Examples](https://github.com/andreosebastiani/Portfolio/tree/master/SQL)
