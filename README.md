@@ -8,7 +8,8 @@ Andreo Sebastiani
 Table of contents
 =======
 
-- [C# Examples](https://github.com/andreosebastiani/Portfolio/tree/master/C%23)
+- [.NET Project](https://github.com/andreosebastiani/collegeplaylist)
+- [C# Programs](https://github.com/andreosebastiani/Portfolio/tree/master/C%23)
 - [SQL Examples](https://github.com/andreosebastiani/Portfolio/tree/master/SQL)
     - [Query Examples](https://github.com/andreosebastiani/Portfolio/blob/master/SQL/QueryExamples.sql)
     - [Create View Example](https://github.com/andreosebastiani/Portfolio/blob/master/SQL/CreateViewExample.sql)
